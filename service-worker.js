@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/whatLink/precache-manifest.fa8102305e158506bf8b53488a6f231d.js"
+  "/precache-manifest.2f1285c95c2b280f494ae3a7c5368a66.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "whatlink"});
