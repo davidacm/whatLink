@@ -1,5 +1,6 @@
 {
   "name": "whatlink",
+  "homepage": "https://github.com/davidacm/whatLink",
   "version": "0.1.0",
   "private": true,
   "scripts": {
