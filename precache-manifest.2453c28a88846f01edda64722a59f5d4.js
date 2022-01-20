@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2262696a576881fd747c",
+    "revision": "a901dfe65a114df46397",
     "url": "/whatLink/css/app.d40fc157.css"
   },
   {
@@ -8,12 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whatLink/css/chunk-vendors.8d640e24.css"
   },
   {
-    "revision": "d5c1efaaea7faf28787de431cd0ddcbe",
+    "revision": "e503bb651d2ef480ab4fd589f4ec1d38",
+    "url": "/whatLink/img/logo.e503bb65.png"
+  },
+  {
+    "revision": "7638973ab685c1c77b191840622c5174",
     "url": "/whatLink/index.html"
   },
   {
-    "revision": "2262696a576881fd747c",
-    "url": "/whatLink/js/app.500b2c74.js"
+    "revision": "a901dfe65a114df46397",
+    "url": "/whatLink/js/app.d02b71f6.js"
   },
   {
     "revision": "5b36dc2d772b43f121ee",
